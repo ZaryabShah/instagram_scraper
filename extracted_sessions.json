@@ -1,0 +1,13 @@
+{
+  "sessions": [
+    {
+      "session_id": "",
+      "csrf_token": "K50UpGKjVn-d5pfL6FCTe1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "x_asbd_id": "359341",
+      "x_ig_app_id": "936619743392459"
+    }
+  ],
+  "extracted_at": "2025-01-12T10:00:00",
+  "count": 1
+}
